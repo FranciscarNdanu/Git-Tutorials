@@ -20,3 +20,4 @@ If BMI is between 18 and 25, the person is normal
 
 If BMI <18 then the person is underweight
 
+
