@@ -12,7 +12,4 @@ BMI=Weight/(Height * Height)
 
 We will use the BMI to determine whether the user is overweight, Normal or underweight.
 
-This is the last edit.
-
-Thank you!
 
